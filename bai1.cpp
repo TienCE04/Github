@@ -11,4 +11,5 @@ int main(){
         s+=i;
     }
     cout<<s<<endl;
+    cout<<"branch test"<<endl;
 }
